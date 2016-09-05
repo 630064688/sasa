@@ -1,0 +1,24 @@
+/*logo*/
+.logo{width:1090px;margin:0 auto;margin-top:24px;}
+
+/*back*/
+.back{width:1090px;height:354px;margin:140px auto 0;position: relative;}
+.form{width:352px;height:430px;position: absolute;top:-70px;left:600px;border:1px solid #EEEEEE;padding:36px;z-index: 2;
+box-shadow: 0 -2px 15px #666666;}
+.zhuce em{float:left;font-size:22px ;margin-bottom: 16px;}
+.zhuce span{float:right}
+.form span a{color:#EC3E7D;margin-left:5px;}
+#tex,#pas,#pass{width:352px;height:37px;margin-top:24px ;}
+#test{width:130px;height:37px;margin:24px 0 30px 0;}
+.form .check span{margin-left: 15px;}
+.check input{vertical-align: middle;}
+.check i{margin:0 10px;color:#666666;}
+#btn{display:block;width:352px;height:40px;background: #EC3E7D;margin-top:35px;color:#FFFFFF;border: 0;}
+
+
+
+
+/**/
+/**/
+/**/
+/**/
